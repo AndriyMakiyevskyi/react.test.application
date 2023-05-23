@@ -12,6 +12,7 @@ It is required to have git, Node.js and npm installed to clone and run this proj
 
 > I used versions `2.34.1`, `v18.15.0`, and `9.5.0.` of git, Node.js and npm, respectively. I suggest you use the same or later LTS versions.
 
+
 ## Installation
 
 Run `npm install` (or `npm i` for the short version) to install the dev dependencies.
